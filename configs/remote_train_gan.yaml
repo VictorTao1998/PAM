@@ -33,6 +33,7 @@ SOLVER:
   EPOCHS: 10
   BATCH_SIZE: 4                             # batch size
   NUM_WORKER: 1                               # num_worker in dataloader
+  WEIGHT_DECAY: 0.5
 
 # Model parameters
 ARGS:
